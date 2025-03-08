@@ -1,4 +1,4 @@
-<p align="left">I'm just trying to get better in OpenGL and Vulkan</p>
+<p align="left">I'm trying to get better in OpenGL and Vulkan</p>
 
 ###
 
